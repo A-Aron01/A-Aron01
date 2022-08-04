@@ -1,3 +1,4 @@
-using namespace std;
 #include <io.stream>
-#include<
+#include
+using namespace std;
+
